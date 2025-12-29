@@ -1,0 +1,3 @@
+- Injury
+- Fight
+- Shocking
