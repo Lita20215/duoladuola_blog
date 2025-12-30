@@ -1,7 +1,8 @@
 ---
-title: categories
+title: 分类
+date: 2025-12-25 00:00:00
 layout: categories
-date: 2025-12-25 16:19:39
+type: "categories"
 ---
 
   - [Sports, Baseball]

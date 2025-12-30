@@ -1,7 +1,20 @@
 ---
-title: about
+
 layout: about
-date: 2025-12-25 16:19:39
+type: "about"
+show_date: false
 ---
 
-# 这里是哆啦度
+<div style="text-align: center;">
+    <img src="/images/avatar.jpg" alt="个人头像" style="border-radius: 50%; width: 150px; height: 150px; display: block; margin: 20px auto; border: 3px solid #ddd;">
+</div>
+
+<div style="text-align: center;">
+
+
+一枚前端开发程序员，热爱代码，热爱人生。
+
+
+- 邮箱：<a href="mailto:1826346505@qq.com">1826346505@qq.com</a>
+
+</div>
